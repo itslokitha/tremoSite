@@ -52,8 +52,8 @@ const EmailSection = () => {
         </h5>
         <p className="text-[#ADB7BE] mb-4 max-w-md">
           {" "}
-          We're your go-to team for standout digital marketing, web design, graphic creation, and social media savvy. 
-          Looking to boost your brand or expand your reach? Let's connect and transform your ideas into impactful digital realities.
+          We&apos;re your go-to team for standout digital marketing, web design, graphic creation, and social media savvy. 
+          Looking to boost your brand or expand your reach? Let&apos;s connect and transform your ideas into impactful digital realities.
         </p>
         <div className="socials flex flex-row gap-2">
           <Link href="www.github.com">

@@ -39,7 +39,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          Unleashing potential through innovative digital solutions. Let's navigate the digital landscape together.
+          Unleashing potential through innovative digital solutions. Let&apos;s navigate the digital landscape together.
           </p>
           <div>
             <Link

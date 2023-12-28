@@ -16,7 +16,7 @@ export async function POST(req, res) {
         <>
           <h1>Welcome to Tremo Management!</h1>
           <p>Hello,</p>
-          <p>Thank you for reaching out to us at Tremo Management! We're thrilled to have the opportunity to connect with you. Your message is important to us, and we've already set things in motion to ensure it gets the attention it deserves.</p>
+          <p>Thank you for reaching out to us at Tremo Management! We&apos;re thrilled to have the opportunity to connect with you. Your message is important to us, and we&apos;ve already set things in motion to ensure it gets the attention it deserves.</p>
           <p>One of our team members will review your inquiry and respond promptly within the next 24-48 hours. In the meantime, feel free to browse through our latest projects and insights on our website.</p>
           <p>We appreciate your interest and are looking forward to assisting you.</p>
           <br></br>
