@@ -9,6 +9,10 @@ npm install
 
 npm install @heroicons/react
 
+npm install resend
+
+npm install react-hot-toast
+
 npm run dev
 
 Open your browser and visit `http://localhost:3000` to view the website.
