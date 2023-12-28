@@ -16,7 +16,6 @@ const achievementsList = [
     postfix: "+",
   },
   {
-    prefix: "",
     metric: "Trusted Brands",
     value: "5",
   },
@@ -26,7 +25,8 @@ const achievementsList = [
   },
   {
     metric: "Years",
-    value: "3",
+    value: "2",
+    postfix: "+",
   },
 ];
 
