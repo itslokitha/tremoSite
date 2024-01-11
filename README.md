@@ -46,7 +46,7 @@ Open your browser and visit `http://localhost:3000` to view the website.
 3. **Building for Production**: Guidelines for building and deploying the site.
 
 ## License
-(Include information about the licensing of this software. If the software is open source, specify the type of license. If proprietary, mention the restrictions.)
+This project is licensed under the MIT License.
 
 ## Contact
 For more information, support, or inquiries, please contact [anuja.lokitha@outlook.com].
