@@ -56,10 +56,10 @@ const EmailSection = () => {
           Looking to boost your brand or expand your reach? Let&apos;s connect and transform your ideas into impactful digital realities.
         </p>
         <div className="socials flex flex-row gap-8">
-          <Link href="www.facebook.com/tremomanagement">
+          <Link href="https://www.facebook.com/tremomanagement">
             <Image src={FacebookIcon} alt="Facebook Icon" width={40} height={40}/>
           </Link>
-          <Link href="www.instagram.com/tremomanagement">
+          <Link href="https://www.instagram.com/tremomanagement">
             <Image src={InstagramIcon} alt="Instagram Icon" width={40} height={40}/>
           </Link>
         </div>
