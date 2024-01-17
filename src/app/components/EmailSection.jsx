@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
-import GithubIcon from "../../../public/github-icon.svg";
-import LinkedinIcon from "../../../public/linkedin-icon.svg";
+import FacebookIcon from "../../../public/facebook-svgrepo-com.svg";
+import InstagramIcon from "../../../public/instagram-svgrepo-com.svg";
 import Link from "next/link";
 import Image from "next/image";
 
@@ -55,12 +55,12 @@ const EmailSection = () => {
           We&apos;re your go-to team for standout digital marketing, web design, graphic creation, and social media savvy. 
           Looking to boost your brand or expand your reach? Let&apos;s connect and transform your ideas into impactful digital realities.
         </p>
-        <div className="socials flex flex-row gap-2">
-          <Link href="www.github.com">
-            <Image src={GithubIcon} alt="Github Icon" />
+        <div className="socials flex flex-row gap-8">
+          <Link href="www.facebook.com/tremomanagement">
+            <Image src={FacebookIcon} alt="Facebook Icon" width={40} height={40}/>
           </Link>
-          <Link href="www.linkedin.com">
-            <Image src={LinkedinIcon} alt="Linkedin Icon" />
+          <Link href="www.instagram.com/tremomanagement">
+            <Image src={InstagramIcon} alt="Instagram Icon" width={40} height={40}/>
           </Link>
         </div>
       </div>
