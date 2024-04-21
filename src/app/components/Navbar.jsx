@@ -9,10 +9,10 @@ import { title } from "process";
 import path from "path";
 
 const navLinks = [
-  {
-    title: "Offers",
-    path: "#offers",
-  },
+  // {
+  //   title: "Offers",
+  //   path: "#offers",
+  // },
   // {
   //   title: "Projects",
   //   path: "#projects",

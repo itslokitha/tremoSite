@@ -9,7 +9,7 @@ const OFFERS_DATA = [
       <div>
         {/* <h3>Social Media Management</h3>
         <p>Exclusive Offer</p> */}
-        <img src="/images/offers/smm.jpg" alt="smmImage" />
+        <img src="/images/offers/smm.jpg" alt="smmImage"/>
       </div>
     ),
   },

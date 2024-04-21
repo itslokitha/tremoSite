@@ -54,6 +54,8 @@ const EmailSection = () => {
           {" "}
           We&apos;re your go-to team for standout digital marketing, web design, graphic creation, and social media savvy. 
           Looking to boost your brand or expand your reach? Let&apos;s connect and transform your ideas into impactful digital realities.
+          <br></br>
+          Email us at: info@tremomanagement.com
         </p>
         <div className="socials flex flex-row gap-8">
           <Link href="https://www.facebook.com/tremomanagement">
