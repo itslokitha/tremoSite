@@ -7,9 +7,9 @@ const OFFERS_DATA = [
     id: "offer1",
     content: (
       <div>
-        <h3>Offer 1 Title</h3>
-        <p>Details about Offer 1...</p>
-        {/* <img src="/path/to/your/image1.jpg" alt="Offer 1" /> */}
+        {/* <h3>Social Media Management</h3>
+        <p>Exclusive Offer</p> */}
+        <img src="/images/offers/smm.jpg" alt="smmImage" />
       </div>
     ),
   },
@@ -18,13 +18,12 @@ const OFFERS_DATA = [
     id: "offer2",
     content: (
       <div>
-        <h3>Offer 2 Title</h3>
-        <p>Details about Offer 2...</p>
-        {/* <img src="/path/to/your/image2.jpg" alt="Offer 2" /> */}
+        {/* <h3>Website Maintenance</h3>
+        <p>Exclusive Offer</p> */}
+        <img src="/images/offers/webmaint.jpg" alt="webmaintImage" />
       </div>
     ),
   },
-  // Add more offers as needed...
 ];
 
 const OffersSection = () => {
