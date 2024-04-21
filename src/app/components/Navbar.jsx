@@ -5,16 +5,22 @@ import NavLink from "./NavLink";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/solid";
 import MenuOverlay from "./MenuOverlay";
 import Image from "next/image";
+import { title } from "process";
+import path from "path";
 
 const navLinks = [
-  {
-    title: "About",
-    path: "#about",
-  },
+  // {
+  //   title: "Offers",
+  //   path: "#offers",
+  // },
   // {
   //   title: "Projects",
   //   path: "#projects",
   // },
+  {
+    title: "About Us",
+    path: "#about",
+  },
   {
     title: "Contact",
     path: "#contact",

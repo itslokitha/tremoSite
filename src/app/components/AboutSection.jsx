@@ -9,9 +9,9 @@ const TAB_DATA = [
     id: "digital",
     content: (
       <ul className="list-disc pl-2">
-        <li>Search Engine Optimization</li>
+        <li>Search Engine Optimization & Search Engine Marketing</li>
         <li>Ad Creation & Management (Google, Facebook, Instagram, etc.)</li>
-        <li>CRM Development</li>
+        <li>CRM Management</li>
         <li>Campaign Creation & Management (Email, Newsletter, SMS)</li>
       </ul>
     ),
@@ -33,7 +33,8 @@ const TAB_DATA = [
     id: "system",
     content: (
       <ul className="list-disc pl-2">
-        <li>POS System Development</li>
+        <li>ERP System Development</li>
+        <li>POS Systems Development</li>
         <li>Database Management & Visualization</li>
         <li>Machine Learning Systems</li>
       </ul>
