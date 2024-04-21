@@ -10,16 +10,16 @@ import path from "path";
 
 const navLinks = [
   {
-    title: "About",
-    path: "#about",
+    title: "Offers",
+    path: "#offers",
   },
   // {
   //   title: "Projects",
   //   path: "#projects",
   // },
   {
-    title: "Offers",
-    path: "#offers",
+    title: "About Us",
+    path: "#about",
   },
   {
     title: "Contact",
